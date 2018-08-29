@@ -1,0 +1,16 @@
+[
+  {
+    "aesKey": "b6e299cef****",
+    "appid": "wx9c0a64*****",
+    "appsecret": "7b6e299cef94a******",
+    "clientId": "公众号1",
+    "token": "token3"
+  },
+  {
+    "aesKey": "VnISrauPfxMVt3twwhErez******",
+    "appid": "wx49ab326*****",
+    "appsecret": "75a9b1bd6e00aa*****",
+    "clientId": "公众号2",
+    "token": "token4"
+  }
+]
